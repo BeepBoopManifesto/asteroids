@@ -10,6 +10,5 @@ dependencies = [
 
 [tool.uv.workspace]
 members = [
-    "asteriods",
-    "asteroids",
+    "asteroids"
 ]
